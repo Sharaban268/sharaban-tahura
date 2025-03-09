@@ -93,7 +93,9 @@ section .main .buttons button:hover{
    border: 1px solid #ccc;
 }
 section .main .lang{
+   
    margin-top: 20px;
+   
 }
 section .footer{
    position: absolute;
@@ -118,4 +120,4 @@ section .footer .row ul li a{
    font-size: 14px;
    color: #5f6368;
    margin-right: 25px;
-}# first-projects
+}
